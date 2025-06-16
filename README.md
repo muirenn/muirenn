@@ -17,6 +17,6 @@
 
 <h2 align="center">Skills </h2>
 <p align="center">
-   <img src="https://simpleskill.icons.workers.dev/svg?i=c,cplusplus,delphi,javascript,typescript,react,css,mobx,git" /> 
+   <img src="https://simpleskill.icons.workers.dev/svg?i=c,cplusplus,delphi,javascript,typescript,react,css,mobx,git,spring,hibernate" /> 
 </p>
 
